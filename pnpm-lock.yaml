@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   itty-router:
-    specifier: 3.0.11
-    version: 3.0.11
+    specifier: 4.0.13
+    version: 4.0.13
   leetcode-query:
     specifier: 0.2.7
     version: 0.2.7
@@ -2954,8 +2954,8 @@ packages:
       istanbul-lib-report: 3.0.0
     dev: true
 
-  /itty-router@3.0.11:
-    resolution: {integrity: sha512-vWsoHBi2CmU15YzyUeHjRfjdySL2jqZQKA9jP1LXkBcLJAo0KQNVlQMvhtzG0mzABhVYifeBF97UkrrpuTCWYQ==}
+  /itty-router@4.0.13:
+    resolution: {integrity: sha512-iiQ9k1nQgaal/MteVft5pwYkvzuZx3idPT9tYpKWl7rKH74tyz5VVSVUCXUO0iBh5HDXjHYsix90UrFKPfThHg==}
     dev: false
 
   /javascript-natural-sort@0.7.1:
