@@ -4,7 +4,7 @@ import { Theme } from "./_theme";
 
 export default Theme({
     palette: {
-        bg: ["url(#g-bg)", "#ffffffaa"],
+        bg: ["url(#g-bg)", "#12111F"],
         text: ["url(#g-text)"],
         color: ["url(#g-text)", "#6ee7b7", "#fcd34d", "#fca5a5"],
     },
